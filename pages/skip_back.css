@@ -1,0 +1,8 @@
+.skip-back .icon {
+  width: 40.8px;
+  height: 40px;
+}
+.skip-back {
+  display: flex;
+  box-sizing: border-box;
+}

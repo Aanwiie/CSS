@@ -1,0 +1,8 @@
+.heart .icon {
+  width: 41.8px;
+  height: 36.5px;
+}
+.heart {
+  display: flex;
+  box-sizing: border-box;
+}

@@ -1,0 +1,797 @@
+.login-1 .ellipse-2 {
+  filter: blur(75px);
+  transform: rotate(179.565deg);
+  position: absolute;
+  top: -316px;
+  right: -117.2px;
+  width: 666.2px;
+  height: 3536.9px;
+}
+.login-1 .ellipse-1 {
+  filter: blur(75px);
+  position: absolute;
+  left: -714px;
+  top: -1521px;
+  width: 1587px;
+  height: 3250px;
+}
+.login-1 .suffle-1 {
+  position: absolute;
+  top: 1222.7px;
+  right: 490.5px;
+  width: 51.8px;
+  height: 45.7px;
+}
+.login-1 .group-81 {
+  position: absolute;
+  left: 50%;
+  top: 1199.9px;
+  translate: -50% 0;
+  width: 103.5px;
+  height: 91.3px;
+}
+.login-1 .vector-6 {
+  position: absolute;
+  top: 1022px;
+  right: -391px;
+  width: 104.6px;
+  height: 133.6px;
+}
+.login-1 .rectangle-6 {
+  mix-blend-mode: soft-light;
+  filter: blur(2px);
+  border-radius: 60px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 478px;
+  top: 56px;
+  width: 604px;
+  height: 58px;
+}
+.login-1 .rectangle-26 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #BF5011, #BCA111);
+  position: absolute;
+  left: 625px;
+  bottom: 11px;
+  width: 202px;
+  height: 68px;
+}
+.login-1 .icon {
+  width: 18px;
+  height: 12px;
+}
+.login-1 .icon-1 {
+  width: 18px;
+  height: 18px;
+}
+.login-1 .icon {
+  width: 18px;
+  height: 12px;
+}
+.login-1 .container-17 {
+  border-radius: 100px;
+  display: flex;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.login-1 .leading-icon {
+  margin: 3px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.login-1 .icon-1 {
+  width: 18px;
+  height: 18px;
+}
+.login-1 .container-18 {
+  border-radius: 100px;
+  display: flex;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.login-1 .trailing-elements {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.login-1 .search-bar {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  background: rgba(101, 85, 143, 0.08);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  padding: 19px;
+  width: 603px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.login-1 .search {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Orbitron';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login-1 .group-1 {
+  border-radius: 28px;
+  position: relative;
+  margin-top: 2.3px;
+  padding: 14px 60px 17px 60px;
+  width: 603px;
+  box-sizing: border-box;
+}
+.login-1 .icon-4 {
+  width: 37.5px;
+  height: 44.2px;
+}
+.login-1 .home {
+  margin: 2.8px 48.9px 4.3px 0;
+  display: flex;
+  width: 50px;
+  height: 53px;
+  box-sizing: border-box;
+}
+.login-1 .icon-2 {
+  width: 46.7px;
+  height: 41.9px;
+}
+.login-1 .person {
+  margin: 3.8px 0 5.6px 0;
+  display: flex;
+  width: 70px;
+  height: 62.8px;
+  box-sizing: border-box;
+}
+.login-1 .icon-12 {
+  width: 53.3px;
+  height: 46.7px;
+}
+.login-1 .shopping-bag {
+  margin: 0 51.2px 4.6px 0;
+  display: flex;
+  width: 71px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.login-1 .icon-3 {
+  width: 54.4px;
+  height: 50.8px;
+}
+.login-1 .settings {
+  margin-top: 0.4px;
+  display: flex;
+  width: 65px;
+  height: 61px;
+  box-sizing: border-box;
+}
+.login-1 .container-19 {
+  margin-bottom: 7.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 349.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-1 .container-6 {
+  margin: 0 0 42px 243.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1126.7px;
+  box-sizing: border-box;
+}
+.login-1 .playlist {
+  margin: 0 35px 26px 35px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 60px;
+  color: #FFFFFF;
+}
+.login-1 .icon-5 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-1 .play-circle {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-1 .container-14 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_7.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 140px 2px 0;
+  display: flex;
+  padding: 87.7px 2px 86.7px 0;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-1 .icon-6 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-1 .play-circle-1 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-1 .container-11 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_81.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 2px 153px 0 0;
+  display: flex;
+  padding: 85.7px 14px 88.7px 0;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-1 .rectangle-10 {
+  opacity: 0.6;
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_101.png') 50% / cover no-repeat;
+  margin: 0 126px 2px 0;
+  width: 319px;
+  height: 291px;
+}
+.login-1 .rectangle-9 {
+  border-radius: 60px;
+  margin-bottom: 2px;
+  width: 319px;
+  height: 291px;
+}
+.login-1 .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1695px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-1 .icon-11 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-1 .play-circle-6 {
+  position: absolute;
+  top: 50%;
+  right: 99.9px;
+  translate: 0 -50%;
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-1 .icon-21 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-1 .play-circle-7 {
+  position: absolute;
+  top: 77.7px;
+  right: 535.9px;
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-1 .container-3 {
+  position: relative;
+  margin: 0 12px 21px 56px;
+  display: flex;
+  width: 1695px;
+  box-sizing: border-box;
+}
+.login-1 .rectangle-21 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #A13737, #B69830);
+  margin-top: 9px;
+  width: 202px;
+  height: 68px;
+}
+.login-1 .rectangle-22 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(360deg, #B3380F, #BCA111);
+  margin-top: 9px;
+  width: 202px;
+  height: 68px;
+}
+.login-1 .rectangle-24 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #B3380F, #BCA111);
+  margin: 4px 0 5px 0;
+  width: 202px;
+  height: 68px;
+}
+.login-1 .rectangle-27 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #B3380F, #BCA111);
+  margin-bottom: 9px;
+  width: 202px;
+  height: 68px;
+}
+.login-1 .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1587px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-1 .icon-16 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-1 .shopping-bag-4 {
+  position: absolute;
+  left: 602.3px;
+  bottom: 12.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-1 .icon-17 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-1 .shopping-bag-5 {
+  position: absolute;
+  top: 11.8px;
+  right: 450.3px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-1 .icon-20 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-1 .shopping-bag-8 {
+  position: absolute;
+  left: 149.3px;
+  bottom: 4.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-1 .icon-15 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-1 .shopping-bag-3 {
+  position: absolute;
+  top: 11.8px;
+  right: 10.3px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-1 .container-1 {
+  position: absolute;
+  left: 1px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-1 .container-2 {
+  position: absolute;
+  left: 451px;
+  bottom: 9px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-1 .container {
+  position: absolute;
+  right: 71.9px;
+  bottom: 9px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-1 .container-4 {
+  position: absolute;
+  top: 8px;
+  right: 513.7px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-1 .container {
+  position: relative;
+  margin: 0 58px 40px 118px;
+  display: flex;
+  width: 1587px;
+  box-sizing: border-box;
+}
+.login-1 .icon-7 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-1 .play-circle-2 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-1 .container-4 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_14.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 3px 139px 0 0;
+  display: flex;
+  padding: 96.7px 10px 77.7px 0;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-1 .icon-8 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-1 .play-circle-3 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-1 .container-16 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_131.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 166px 3px 0;
+  display: flex;
+  padding: 99.7px 0 74.7px 14px;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-1 .icon-9 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-1 .play-circle-4 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-1 .container-1 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_181.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 123px 3px 0;
+  display: flex;
+  padding: 90.7px 0 83.7px 8px;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-1 .icon-10 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-1 .play-circle-5 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-1 .container-13 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_121.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 3px;
+  display: flex;
+  padding: 78.7px 0 95.7px 14px;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-1 .container-7 {
+  margin: 0 0 16px 59px;
+  display: flex;
+  flex-direction: row;
+  width: 1704px;
+  box-sizing: border-box;
+}
+.login-1 .rectangle-23 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #BF5011, #BCA111);
+  margin-top: 16px;
+  width: 202px;
+  height: 68px;
+}
+.login-1 .container-6 {
+  margin: 16px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-1 .rectangle-25 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(90deg, #B3380F, #BCA111);
+  margin: 12px 0 4px 0;
+  width: 202px;
+  height: 68px;
+}
+.login-1 .rectangle-28 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #B3380F, #BCA111);
+  margin-bottom: 16px;
+  width: 202px;
+  height: 68px;
+}
+.login-1 .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1600px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-1 .icon-13 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-1 .shopping-bag-1 {
+  position: absolute;
+  right: 443.3px;
+  bottom: 10.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-1 .icon-18 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-1 .shopping-bag-6 {
+  position: absolute;
+  left: 152.3px;
+  bottom: 10.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-1 .icon-19 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-1 .shopping-bag-7 {
+  position: absolute;
+  left: 620.3px;
+  bottom: 15.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-1 .icon-14 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-1 .shopping-bag-2 {
+  position: absolute;
+  top: 10.8px;
+  right: 23.3px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-1 .container-3 {
+  position: absolute;
+  right: 512.9px;
+  bottom: 6px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-1 .container-7 {
+  position: absolute;
+  top: 12px;
+  right: 74.9px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-1 .container-8 {
+  position: relative;
+  margin: 0 51px 147.3px 112px;
+  display: flex;
+  width: 1600px;
+  box-sizing: border-box;
+}
+.login-1 .vector {
+  width: 38.8px;
+  height: 30.4px;
+}
+.login-1 .love-3 {
+  margin: 3px 0;
+  display: flex;
+  width: 51.8px;
+  height: 45.7px;
+  box-sizing: border-box;
+}
+.login-1 .vector-3 {
+  width: 38.8px;
+  height: 34.2px;
+}
+.login-1 .speaker-1 {
+  margin: 1.1px 0;
+  display: flex;
+  width: 51.8px;
+  height: 45.7px;
+  box-sizing: border-box;
+}
+.login-1 .vector-4 {
+  width: 38px;
+  height: 36.5px;
+}
+.login-1 .next-1 {
+  margin-bottom: 0px;
+  display: flex;
+  width: 55.2px;
+  height: 48.7px;
+  box-sizing: border-box;
+}
+.login-1 .vector-5 {
+  width: 38px;
+  height: 36.5px;
+}
+.login-1 .next-2 {
+  margin-top: 0px;
+  display: flex;
+  width: 55.2px;
+  height: 48.7px;
+  box-sizing: border-box;
+}
+.login-1 .container-10 {
+  margin: 0 232.6px 48.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 637px;
+  box-sizing: border-box;
+}
+.login-1 .container-8 {
+  margin: 4.6px 10.5px 0 0;
+  display: inline-block;
+  width: 44.9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.login-1 .rectangle-211 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  width: 500.3px;
+  height: 10.7px;
+}
+.login-1 .container-20 {
+  border-radius: 10px;
+  background: #575656;
+  position: relative;
+  margin: 10.7px 0 4.3px 0;
+  width: 952.2px;
+  height: 10.7px;
+  box-sizing: border-box;
+}
+.login-1 .container-9 {
+  margin-bottom: 4.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #FFFBFB;
+}
+.login-1 .container-12 {
+  margin: 0 0 868px 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1095px;
+  box-sizing: border-box;
+}
+.login-1 .rectangle-19 {
+  filter: blur(10px);
+  border-radius: 30px;
+  background: linear-gradient(90deg, #311A1A, #975151, #8D8325);
+  align-self: flex-start;
+  width: 1326px;
+  height: 228px;
+}
+.login-1 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.login-1 .rectangle-20 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_20.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 77px;
+  bottom: -1284px;
+  width: 124px;
+  height: 94px;
+}
+.login-1 .container-5 {
+  position: absolute;
+  left: 159px;
+  bottom: -4px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-1 .black-and-white-globe-y-2-kstreetwear-logo-removebg-preview-14 {
+  background: url('../assets/images/black_and_white_globe_y_2_kstreetwear_logo_removebg_preview_16.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 76px;
+  top: -14px;
+  width: 206px;
+  height: 193px;
+}
+.login-1 {
+  background: #0F0F0F;
+  display: flex;
+  padding: 53.7px 120px 0 37px;
+  width: 1920px;
+  box-sizing: border-box;
+}

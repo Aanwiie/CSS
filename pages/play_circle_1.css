@@ -1,0 +1,8 @@
+.play-circle-1 .icon {
+  width: 62.5px;
+  height: 58.3px;
+}
+.play-circle {
+  display: flex;
+  box-sizing: border-box;
+}

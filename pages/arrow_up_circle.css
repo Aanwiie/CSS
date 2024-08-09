@@ -1,0 +1,8 @@
+.arrow-up-circle .icon {
+  width: 71.7px;
+  height: 71.7px;
+}
+.arrow-up-circle {
+  display: flex;
+  box-sizing: border-box;
+}

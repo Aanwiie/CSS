@@ -1,0 +1,234 @@
+.login .ellipse-2 {
+  filter: blur(75px);
+  transform: rotate(179.565deg);
+  position: absolute;
+  top: -219px;
+  right: -65.9px;
+  width: 651.2px;
+  height: 1402px;
+}
+.login .ellipse-1 {
+  opacity: 0.6;
+  filter: blur(75px);
+  position: absolute;
+  left: -31px;
+  top: -62px;
+  width: 747px;
+  height: 1339px;
+}
+.login .ring-2 {
+  background: url('../assets/images/ring_1.png') 50% / cover no-repeat;
+  position: relative;
+  width: 1460px;
+  height: 1043px;
+}
+.login .ring-1 {
+  background: url('../assets/images/ring_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 1043px;
+}
+.login .rings {
+  position: absolute;
+  right: -669px;
+  bottom: -341px;
+  padding: 19px 101px 0 101px;
+  width: 1755px;
+  height: 1062px;
+  box-sizing: border-box;
+}
+.login .explore {
+  margin-bottom: 109px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Orbitron';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login .discover-collect-and-own-music {
+  margin: 0 13.6px 271px 37px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 96px;
+  color: #FFFFFF;
+}
+.login .rectangle-3 {
+  filter: blur(20px);
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: linear-gradient(180deg, #ECD764, #FCFAF3);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 247px;
+  height: 89px;
+}
+.login .rectangle-4 {
+  filter: blur(20px);
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: linear-gradient(180deg, #ECD764, #FCFAF3);
+  position: absolute;
+  top: 0px;
+  right: 15px;
+  width: 217px;
+  height: 64px;
+}
+.login .log-in {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 50px;
+  color: #000000;
+}
+.login .container-1 {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #111110;
+  position: relative;
+  display: flex;
+  padding: 15px 9.7px 11px 0;
+  width: 247px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login .log-in-1 {
+  border-radius: 40px;
+  position: relative;
+  margin: 0 193.3px 50px 0;
+  display: flex;
+  align-self: center;
+  padding: 1px 0 0 6px;
+  width: 268px;
+  box-sizing: border-box;
+}
+.login .k {
+  position: relative;
+  margin: 5px 31.5px 0 0;
+  display: inline-block;
+  width: 151px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 50px;
+  color: #FFFFFF;
+}
+.login .k-1 {
+  position: relative;
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 50px;
+  color: #FFFFFF;
+}
+.login .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 497.5px;
+  box-sizing: border-box;
+}
+.login .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.login .download-2-removebg-preview-1 {
+  background: url('../assets/images/face.png') 50% / cover no-repeat;
+  position: absolute;
+  right: -23px;
+  bottom: -16px;
+  width: 818px;
+  height: 1110px;
+}
+.login .revolutionize-music-ownership-buy-sell-and-own-unique-music-snippets-anonymously-discover-hidden-talents-transform-tracks-into-exclusive-assets-and-gain-recognition-for-your-musical-genius-empower-small-creators-and-elevate-your-music-experience {
+  position: absolute;
+  left: 135px;
+  bottom: 319px;
+  overflow-wrap: break-word;
+  font-family: 'Quantico';
+  font-weight: 400;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.login .artists {
+  position: absolute;
+  left: 153px;
+  bottom: 47px;
+  overflow-wrap: break-word;
+  font-family: 'Orbitron';
+  font-weight: 400;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.login .auctions {
+  position: absolute;
+  left: 501px;
+  bottom: 19px;
+  overflow-wrap: break-word;
+  font-family: 'Orbitron';
+  font-weight: 600;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.login .how-it-works {
+  position: absolute;
+  top: 17px;
+  right: 794.5px;
+  overflow-wrap: break-word;
+  font-family: 'Orbitron';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login .marketplace {
+  position: absolute;
+  top: 20px;
+  right: 568.9px;
+  overflow-wrap: break-word;
+  font-family: 'Orbitron';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login .rectangle-2 {
+  filter: blur(60px);
+  background: #181717;
+  position: absolute;
+  left: 278px;
+  bottom: 319px;
+  width: 180px;
+  height: 40px;
+}
+.login .black-and-white-globe-y-2-kstreetwear-logo-removebg-preview-13 {
+  background: url('../assets/images/black_and_white_globe_y_2_kstreetwear_logo_removebg_preview_16.png') 50% / cover no-repeat;
+  width: 229px;
+  height: 173px;
+}
+.login .container-3 {
+  background: url('../assets/images/black_and_white_globe_y_2_kstreetwear_logo_removebg_preview_16.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  width: 229px;
+  height: 173px;
+  box-sizing: border-box;
+}
+.login {
+  background: #0F0F0F;
+  padding: 17px 153px 90px 153px;
+  width: 1920px;
+  box-sizing: border-box;
+}

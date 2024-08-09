@@ -1,0 +1,304 @@
+.signup-1 .container {
+  position: absolute;
+  top: 758px;
+  right: 543px;
+  width: 31px;
+  height: 1px;
+}
+.signup-1 .premium-vector-christmas-star-light-effect-for-vector-illustrations-removebg-preview-1 {
+  background: url('../assets/images/premium_vector_christmas_star_light_effect_for_vector_illustrations_removebg_preview_1.png') 50% / cover no-repeat;
+  margin: 0 201px 732px 0;
+  width: 350px;
+  height: 161px;
+}
+.signup-1 .signup {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 600;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.signup-1 .just-some-details-to-get-you-in {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.signup-1 .login-text {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .username-1 {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.signup-1 .username {
+  border-radius: 12px;
+  border: 1px solid #FFFFFF;
+  margin-bottom: 25px;
+  padding: 13px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .email-phone {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.signup-1 .username-2 {
+  border-radius: 12px;
+  border: 1px solid #FFFFFF;
+  margin-bottom: 25px;
+  padding: 13px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .password-1 {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.signup-1 .password {
+  border-radius: 12px;
+  border: 1px solid #FFFFFF;
+  margin-bottom: 12px;
+  padding: 13px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .confirm-password {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.signup-1 .password-2 {
+  border-radius: 12px;
+  border: 1px solid #FFFFFF;
+  padding: 13px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .password-rem {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .signup-1 {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.signup-1 .login {
+  border-radius: 12px;
+  background: linear-gradient(90.57deg, #2E4CEE 9.9%, #221EBF 53.3%, #040F75 91.6%);
+  display: flex;
+  padding: 14px 0.5px 14px 0;
+  width: 400px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .login-bt-fp {
+  display: flex;
+  width: 400px;
+  box-sizing: border-box;
+}
+.signup-1 .credentials {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .upper-section {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .line-11 {
+  background: #4D4D4D;
+  margin: 11px 20px 9px 0;
+  width: 170px;
+  height: 0px;
+}
+.signup-1 .or-1 {
+  margin-right: 20.6px;
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #4D4D4D;
+}
+.signup-1 .line-2 {
+  background: #4D4D4D;
+  margin: 11px 0 9px 0;
+  width: 170px;
+  height: 0px;
+}
+.signup-1 .or {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .devicongoogle {
+  width: 42px;
+  height: 42px;
+}
+.signup-1 .logosfacebook {
+  width: 42px;
+  height: 42px;
+}
+.signup-1 .vector-7 {
+  width: 42px;
+  height: 41px;
+}
+.signup-1 .bigithub {
+  margin-bottom: 1px;
+  display: flex;
+  width: 42px;
+  height: 42px;
+  box-sizing: border-box;
+}
+.signup-1 .frame-3 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 18px;
+  width: 162px;
+  box-sizing: border-box;
+}
+.signup-1 .other-logins {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .frame-4 {
+  margin-bottom: 53px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signup-1 .already-registered-login {
+  margin: 0 0.1px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.signup-1 .terms-conditions {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.signup-1 .frame-6 {
+  display: flex;
+  box-sizing: border-box;
+}
+.signup-1 .support {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.signup-1 .frame-7 {
+  display: flex;
+  box-sizing: border-box;
+}
+.signup-1 .customer-care-1 {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.signup-1 .frame-8 {
+  display: flex;
+  box-sizing: border-box;
+}
+.signup-1 .customer-care {
+  border-radius: 6px;
+  background: linear-gradient(180deg, rgba(98, 98, 98, 0.14), rgba(98, 98, 98, 0.14));
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 4px 6.4px 4px 6px;
+  width: 400px;
+  box-sizing: border-box;
+}
+.signup-1 .frame-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  box-sizing: border-box;
+}
+.signup-1 .frame-2 {
+  box-shadow: -8px 4px 5px 0px rgba(0, 0, 0, 0.24);
+  backdrop-filter: blur(26.5px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  background: var(--glass-1-fill-carey, linear-gradient(321.23deg, rgba(191, 191, 191, 0.2) 6%, rgba(0, 0, 0, 0.2) 66.3%), linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.14)));
+  margin-top: 97px;
+  display: flex;
+  flex-direction: column;
+  padding: 72px 40px;
+  width: 480px;
+  box-sizing: border-box;
+}
+.signup-1 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.signup-1 .black-and-white-globe-y-2-kstreetwear-logo-removebg-preview-16 {
+  background: url('../assets/images/black_and_white_globe_y_2_kstreetwear_logo_removebg_preview_16.png') 50% / cover no-repeat;
+  width: 160px;
+  height: 124px;
+}
+.signup-1 .container-2 {
+  background: url('../assets/images/totem_1_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  padding-top: 28px;
+  width: 982px;
+  height: 1080px;
+  box-sizing: border-box;
+}
+.signup-1 {
+  border: 1px solid #000000;
+  background: linear-gradient(270deg, #0F0F0F, #A53434, #CF5E34, #CB6E19, #BD081C, #2E2E2E, #2E2E2E, #C52D2D);
+  display: flex;
+  padding: 27px 0 0 429px;
+  width: 1920px;
+  box-sizing: border-box;
+}

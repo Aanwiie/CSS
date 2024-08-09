@@ -1,0 +1,798 @@
+.login-11 .ellipse-2 {
+  filter: blur(75px);
+  transform: rotate(179.565deg);
+  position: absolute;
+  top: -209px;
+  right: -158.2px;
+  width: 666.2px;
+  height: 3536.9px;
+}
+.login-11 .ellipse-1 {
+  filter: blur(75px);
+  position: absolute;
+  left: -714px;
+  top: -1521px;
+  width: 1587px;
+  height: 3250px;
+}
+.login-11 .suffle-1 {
+  position: absolute;
+  top: 1222.7px;
+  right: 490.5px;
+  width: 51.8px;
+  height: 45.7px;
+}
+.login-11 .group-81 {
+  position: absolute;
+  left: 50%;
+  top: 1199.9px;
+  translate: -50% 0;
+  width: 103.5px;
+  height: 91.3px;
+}
+.login-11 .vector-6 {
+  position: absolute;
+  top: 1022px;
+  right: -391px;
+  width: 104.6px;
+  height: 133.6px;
+}
+.login-11 .rectangle-6 {
+  mix-blend-mode: soft-light;
+  filter: blur(2px);
+  border-radius: 60px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 478px;
+  top: 56px;
+  width: 604px;
+  height: 58px;
+}
+.login-11 .rectangle-26 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #BF5011, #BCA111);
+  position: absolute;
+  left: 625px;
+  bottom: 11px;
+  width: 202px;
+  height: 68px;
+}
+.login-11 .icon-8 {
+  width: 18px;
+  height: 12px;
+}
+.login-11 .icon-9 {
+  width: 18px;
+  height: 18px;
+}
+.login-11 .icon-8 {
+  width: 18px;
+  height: 12px;
+}
+.login-11 .container-18 {
+  border-radius: 100px;
+  display: flex;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.login-11 .leading-icon {
+  margin: 3px 0;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.login-11 .icon-9 {
+  width: 18px;
+  height: 18px;
+}
+.login-11 .container-19 {
+  border-radius: 100px;
+  display: flex;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.login-11 .trailing-elements {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.login-11 .search-bar {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+  background: rgba(101, 85, 143, 0.08);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  padding: 19px;
+  width: 603px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.login-11 .search {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Orbitron';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login-11 .group-1 {
+  border-radius: 28px;
+  position: relative;
+  margin-top: 2.3px;
+  padding: 14px 60px 17px 60px;
+  width: 603px;
+  box-sizing: border-box;
+}
+.login-11 .icon-2 {
+  width: 37.5px;
+  height: 44.2px;
+}
+.login-11 .home {
+  margin: 2.8px 48.9px 4.3px 0;
+  display: flex;
+  width: 50px;
+  height: 53px;
+  box-sizing: border-box;
+}
+.login-11 .icon {
+  width: 46.7px;
+  height: 41.9px;
+}
+.login-11 .person {
+  margin: 3.8px 0 5.6px 0;
+  display: flex;
+  width: 70px;
+  height: 62.8px;
+  box-sizing: border-box;
+}
+.login-11 .icon-3 {
+  width: 53.3px;
+  height: 46.7px;
+}
+.login-11 .shopping-bag {
+  margin: 0 51.2px 4.6px 0;
+  display: flex;
+  width: 71px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.login-11 .icon-1 {
+  width: 54.4px;
+  height: 50.8px;
+}
+.login-11 .settings {
+  margin-top: 0.4px;
+  display: flex;
+  width: 65px;
+  height: 61px;
+  box-sizing: border-box;
+}
+.login-11 .container-10 {
+  margin-bottom: 7.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 349.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-11 .container-6 {
+  margin: 0 0 42px 226.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1126.7px;
+  box-sizing: border-box;
+}
+.login-11 .playlist {
+  margin: 0 35px 26px 35px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 60px;
+  color: #FFFFFF;
+}
+.login-11 .icon-21 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-11 .play-circle-7 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-11 .container-11 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_34.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 7px 121px 0 0;
+  display: flex;
+  padding: 70.7px 0 103.7px 16px;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-11 .icon-10 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-11 .play-circle-4 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-11 .container-12 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_8.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 2px 153px 5px 0;
+  display: flex;
+  padding: 85.7px 14px 88.7px 0;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-11 .rectangle-10 {
+  opacity: 0.6;
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_10.png') 50% / cover no-repeat;
+  margin: 0 155px 7px 0;
+  width: 319px;
+  height: 291px;
+}
+.login-11 .icon-20 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-11 .play-circle-6 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-11 .container-17 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_35.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 7px;
+  display: flex;
+  padding: 87.7px 0 86.7px 26px;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-11 .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1705px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-11 .icon-19 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-11 .play-circle-5 {
+  position: absolute;
+  top: 77.7px;
+  right: 564.9px;
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-11 .container-9 {
+  position: relative;
+  margin: 0 0 16px 75px;
+  display: flex;
+  width: 1705px;
+  box-sizing: border-box;
+}
+.login-11 .rectangle-211 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #A13737, #B69830);
+  margin-top: 9px;
+  width: 202px;
+  height: 68px;
+}
+.login-11 .rectangle-22 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(360deg, #B3380F, #BCA111);
+  margin-top: 9px;
+  width: 202px;
+  height: 68px;
+}
+.login-11 .rectangle-24 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #B3380F, #BCA111);
+  margin: 4px 0 5px 0;
+  width: 202px;
+  height: 68px;
+}
+.login-11 .rectangle-27 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #B3380F, #BCA111);
+  margin-bottom: 9px;
+  width: 202px;
+  height: 68px;
+}
+.login-11 .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1587px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-11 .icon-12 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-11 .shopping-bag-2 {
+  position: absolute;
+  left: 602.3px;
+  bottom: 12.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-11 .icon-13 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-11 .shopping-bag-3 {
+  position: absolute;
+  top: 11.8px;
+  right: 450.3px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-11 .icon-14 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-11 .shopping-bag-4 {
+  position: absolute;
+  left: 149.3px;
+  bottom: 4.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-11 .icon-18 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-11 .shopping-bag-8 {
+  position: absolute;
+  top: 11.8px;
+  right: 10.3px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-11 .container-9 {
+  position: absolute;
+  left: 1px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-11 .container-1 {
+  position: absolute;
+  left: 451px;
+  bottom: 9px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-11 .container-2 {
+  position: absolute;
+  right: 71.9px;
+  bottom: 9px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-11 .container-3 {
+  position: absolute;
+  top: 8px;
+  right: 513.7px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-11 .container-20 {
+  position: relative;
+  margin: 0 75px 40px 118px;
+  display: flex;
+  width: 1587px;
+  box-sizing: border-box;
+}
+.login-11 .icon-6 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-11 .play-circle-2 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-11 .container-21 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_141.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 3px 139px 0 0;
+  display: flex;
+  padding: 96.7px 10px 77.7px 0;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-11 .icon-7 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-11 .play-circle-3 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-11 .container-8 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_13.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 166px 3px 0;
+  display: flex;
+  padding: 99.7px 0 74.7px 14px;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-11 .icon-4 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-11 .play-circle {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-11 .container-16 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_18.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 123px 3px 0;
+  display: flex;
+  padding: 90.7px 0 83.7px 8px;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-11 .icon-5 {
+  width: 119.2px;
+  height: 116.7px;
+}
+.login-11 .play-circle-1 {
+  display: flex;
+  width: 143px;
+  height: 140px;
+  box-sizing: border-box;
+}
+.login-11 .container-2 {
+  border-radius: 60px;
+  background: url('../assets/images/rectangle_12.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 3px;
+  display: flex;
+  padding: 78.7px 0 95.7px 14px;
+  width: 319px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.login-11 .container-5 {
+  margin: 0 17px 16px 59px;
+  display: flex;
+  flex-direction: row;
+  width: 1704px;
+  box-sizing: border-box;
+}
+.login-11 .rectangle-23 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #BF5011, #BCA111);
+  margin-top: 16px;
+  width: 202px;
+  height: 68px;
+}
+.login-11 .container-8 {
+  margin: 16px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-11 .rectangle-25 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(90deg, #B3380F, #BCA111);
+  margin: 12px 0 4px 0;
+  width: 202px;
+  height: 68px;
+}
+.login-11 .rectangle-28 {
+  filter: blur(5px);
+  border-radius: 30px;
+  background: linear-gradient(270deg, #B3380F, #BCA111);
+  margin-bottom: 16px;
+  width: 202px;
+  height: 68px;
+}
+.login-11 .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1600px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-11 .icon-11 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-11 .shopping-bag-1 {
+  position: absolute;
+  right: 443.3px;
+  bottom: 10.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-11 .icon-15 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-11 .shopping-bag-5 {
+  position: absolute;
+  left: 152.3px;
+  bottom: 10.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-11 .icon-16 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-11 .shopping-bag-6 {
+  position: absolute;
+  left: 620.3px;
+  bottom: 15.8px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-11 .icon-17 {
+  width: 37.5px;
+  height: 47.5px;
+}
+.login-11 .shopping-bag-7 {
+  position: absolute;
+  top: 10.8px;
+  right: 23.3px;
+  display: flex;
+  width: 50px;
+  height: 57px;
+  box-sizing: border-box;
+}
+.login-11 .container {
+  position: absolute;
+  right: 512.9px;
+  bottom: 6px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-11 .container-7 {
+  position: absolute;
+  top: 12px;
+  right: 74.9px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-11 .container-1 {
+  position: relative;
+  margin: 0 68px 147.3px 112px;
+  display: flex;
+  width: 1600px;
+  box-sizing: border-box;
+}
+.login-11 .vector {
+  width: 38.8px;
+  height: 30.4px;
+}
+.login-11 .love-3 {
+  margin: 3px 0;
+  display: flex;
+  width: 51.8px;
+  height: 45.7px;
+  box-sizing: border-box;
+}
+.login-11 .vector-3 {
+  width: 38.8px;
+  height: 34.2px;
+}
+.login-11 .speaker-1 {
+  margin: 1.1px 0;
+  display: flex;
+  width: 51.8px;
+  height: 45.7px;
+  box-sizing: border-box;
+}
+.login-11 .vector-4 {
+  width: 38px;
+  height: 36.5px;
+}
+.login-11 .next-1 {
+  margin-bottom: 0px;
+  display: flex;
+  width: 55.2px;
+  height: 48.7px;
+  box-sizing: border-box;
+}
+.login-11 .vector-5 {
+  width: 38px;
+  height: 36.5px;
+}
+.login-11 .next-2 {
+  margin-top: 0px;
+  display: flex;
+  width: 55.2px;
+  height: 48.7px;
+  box-sizing: border-box;
+}
+.login-11 .container-3 {
+  margin: 0 249.6px 48.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 637px;
+  box-sizing: border-box;
+}
+.login-11 .container-5 {
+  margin: 4.6px 10.5px 0 0;
+  display: inline-block;
+  width: 44.9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.login-11 .rectangle-21 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  width: 500.3px;
+  height: 10.7px;
+}
+.login-11 .container {
+  border-radius: 10px;
+  background: #575656;
+  position: relative;
+  margin: 10.7px 0 4.3px 0;
+  width: 952.2px;
+  height: 10.7px;
+  box-sizing: border-box;
+}
+.login-11 .container-6 {
+  margin-bottom: 4.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #FFFBFB;
+}
+.login-11 .container-4 {
+  margin: 0 0 868px 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1095px;
+  box-sizing: border-box;
+}
+.login-11 .rectangle-191 {
+  filter: blur(10px);
+  border-radius: 30px;
+  background: linear-gradient(90deg, #311A1A, #975151, #8D8325);
+  align-self: flex-start;
+  width: 1326px;
+  height: 228px;
+}
+.login-11 .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.login-11 .rectangle-201 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_20.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 77px;
+  bottom: -1284px;
+  width: 124px;
+  height: 94px;
+}
+.login-11 .container-4 {
+  position: absolute;
+  left: 159px;
+  bottom: -4px;
+  overflow-wrap: break-word;
+  font-family: 'Oxanium';
+  font-weight: 600;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-11 .black-and-white-globe-y-2-kstreetwear-logo-removebg-preview-14 {
+  background: url('../assets/images/black_and_white_globe_y_2_kstreetwear_logo_removebg_preview_16.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 76px;
+  top: -14px;
+  width: 206px;
+  height: 193px;
+}
+.login-1 {
+  background: #0F0F0F;
+  display: flex;
+  padding: 53.7px 103px 0 37px;
+  width: 1920px;
+  box-sizing: border-box;
+}

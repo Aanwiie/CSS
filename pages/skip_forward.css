@@ -1,0 +1,8 @@
+.skip-forward .icon {
+  width: 46.7px;
+  height: 40px;
+}
+.skip-forward {
+  display: flex;
+  box-sizing: border-box;
+}
